@@ -11,7 +11,7 @@ app.controller('myController', function($scope) {
 	$scope.contact1 = "Nguyễn Hồng Sơn";
 	$scope.contact2 = "fb.com/myprofile.98.75m";
 	$scope.contactmi = " LIÊN HỆ TÔI";
-	$scope.ifyou = "Nếu có thắc mắc về code thì liên lạc mình !";
+	$scope.ifyou = "Nếu có thắc mắc...";
 	$scope.modal1 = "Facebook";
 	$scope.modal2 = "Zalo";
 	$scope.modal3 = "SnapChat";
