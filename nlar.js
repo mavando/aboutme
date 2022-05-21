@@ -9,7 +9,7 @@ app.controller('myController', function($scope) {
 	$scope.job2 = "Vnurl.info";
 	$scope.contact = "Thông tin liên lạc";
 	$scope.contact1 = "Nguyễn Hồng Sơn";
-	$scope.contact2 = "fb.com/myprofile.98.75m";
+	$scope.contact2 = "fb.com/myprofile.98.75";
 	$scope.contactmi = " LIÊN HỆ TÔI";
 	$scope.ifyou = "Nếu có thắc mắc...";
 	$scope.modal1 = "Facebook";
